@@ -1,0 +1,2 @@
+# REDWINEQUALITYASSESSMENT
+Herewe try to explore different interpretable model learning techniques and what features are driving to predict a particular class. For instance, in our project, we can say features like high alcohol values; low pH plays a crucial role in predicting the good quality wine and likewise other classes. We included some of the model interpretable methods such as Permutation importance, Dependency plot, LIME, and SHAP to analyse feature weights and their importance. These methods will help us to interpret why model has taken certain decision.
